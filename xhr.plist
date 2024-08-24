@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xhr.192</string>
+				<string>com.xhr.195</string>
 				<key>bundle-version</key>
-				<string>1.9.0</string>
+				<string>1.9.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
